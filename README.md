@@ -1,5 +1,5 @@
 # Seminar "Computational Aspect of Machine Learning" from TUM
----
+
 Quantization techniques are methods applied to use low-precision datatypes to speed up inference time and reduce energy
 consumption for operations performed in a computer. In Machine Learning, they have been applied to different situations,
 such as Gaussian Processes, Kernel approximation, and (specially) Neural Networks. This paper provides an overview of the
