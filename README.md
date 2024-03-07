@@ -16,4 +16,5 @@ still remain for reduced/mixed precision in Machine Learning, as discussed in th
 
 
 paper: <https://github.com/jaykim1409/CAML/blob/master/reduced_mixed_precision_ml.pdf>
+
 presentation: <https://github.com/jaykim1409/CAML/blob/master/reduced_mixed_precision_presentation.pdf>
